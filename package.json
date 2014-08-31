@@ -1,0 +1,25 @@
+{
+  "name": "vulcanize-middleware",
+  "version": "0.1.1",
+  "description": "Concatenate a set of Web Components into one file for express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vulcanize",
+    "middleware",
+    "polymer",
+    "express",
+    "connect"
+  ],
+  "author": {
+    "name": "k2wanko",
+    "email": "kazu@k2lab.net"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^1.0.4",
+    "vulcanize": "^0.4.2"
+  }
+}
