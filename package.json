@@ -20,6 +20,6 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^1.0.4",
-    "vulcanize": "^0.4.2"
+    "vulcanize": "^0.7.1"
   }
 }
