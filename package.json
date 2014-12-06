@@ -1,6 +1,6 @@
 {
   "name": "vulcanize-middleware",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Concatenate a set of Web Components into one file for express.",
   "main": "lib/index.js",
   "scripts": {
